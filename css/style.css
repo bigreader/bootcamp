@@ -1,0 +1,63 @@
+body {
+	background: #efeee7;
+	font-family: "Georgia", "Times New Roman", "Times", serif;
+	color: #333333;
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	line-height: 1.5;
+}
+
+header {
+	background: #333333;
+	color: #eeeeee;
+	padding: 24px;
+}
+
+h1 {
+	font-size: 28px;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	font-size: 24px;
+	margin: 0;
+	padding: 0;
+}
+
+
+.container {
+	max-width: 1024px;
+	margin: 0 auto;
+	padding: 24px;
+}
+
+#main-bio, #contact-info, #bio-image {
+	float: left;
+}
+
+#bio-image {
+	width: 200px;
+	margin: 24px;
+	margin-left: 0;
+}
+
+#main-bio {
+	width: 70%;
+	margin: 0;
+}
+
+#contact-info {
+	width: 30%;
+}
+
+
+
+
+
+
+
+
