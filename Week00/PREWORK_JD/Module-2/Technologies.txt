@@ -1,0 +1,29 @@
+ReactJS
+React is a JavaScript library for building user interfaces. React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
+
+Angular
+AngularJS is a JavaScript-based open-source front-end web application framework that addresses many of the challenges encountered in developing single-page applications. AngularJS is a toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries.
+
+AJAX
+Ajax is a set of Web development techniques using many Web technologies on the client side to create asynchronous Web applications. With Ajax, Web applications can send and retrieve data from a server asynchronously without interfering with the display and behavior of the existing page.
+
+SOAP
+Simple Object Access Protocol (SOAP) and Representational State Transfer (REST) are two answers to the same question: how to access Web services. SOAP is a standards-based Web services access protocol that has been around for a while and enjoys all of the benefits of long-term use. Originally developed by Microsoft, SOAP really isn’t as simple as the acronym would suggest.
+
+MongoDB
+MongoDB is a cross-platform, document oriented database that provides, high performance, high availability, and easy scalability.
+
+Redux
+Redux is an open-source JavaScript library for managing application state. Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.
+
+Webpack
+Webpack is an open-source JavaScript module bundler. Webpack takes modules with dependencies and generates static assets representing those modules. It takes the dependencies and generates a dependency graph allowing web developers to use a modular approach for their web application development purposes.
+
+Grunt
+Grunt is a JavaScript task runner. The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes. After you've configured it through a Gruntfile, a task runner can do most of that mundane work for you—and your team—with basically zero effort.
+
+Atlassian Confluence
+Confluence is a collaboration software program developed and published by Australian software company Atlassian. Confluence is a content collaboration tool used to help teams to collaborate and share knowledge efficiently. With Confluence, users can create pages and blogs which can be commented on and edited by all members of the team.
+
+Liferay
+Liferay Portal is the world's leading enterprise open source portal framework, offering integrated Web publishing and content management, an enterprise service bus and service-oriented architecture, and compatibility with all major IT infrastructure.

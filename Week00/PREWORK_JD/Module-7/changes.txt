@@ -1,0 +1,18 @@
+Change List
+
+BooTheDog.html
+HEADER: wrapped heading in h1 tags
+ABOUT:  wrapped text in paragraph tags
+ABOUT:  added destination to link
+IMAGE:  added missing <> around img tag (omg so cute)
+COLORS: applied correct ids to buttons
+LIST:   wrapped list items in li tags
+IMPORT: fixed name of script
+
+logic.js
+FACTS:  separated facts in array
+COLORS: quoted "pink"
+RESIZE: quoted "click"
+
+style.css
+no changes
